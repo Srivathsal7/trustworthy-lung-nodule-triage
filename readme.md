@@ -4,7 +4,7 @@ An end-to-end **Human-in-the-Loop Computer-Aided Diagnosis (CADx)** system for l
 
 ## Live Application Access
 
-**Live Web App:** <https://trustworthy-lung-nodule-triage.streamlit.app>
+**Live Web App:** <https://trustworthy-lung-nodule-triage-bayyksnn9kes2pm54tkabu.streamlit.app/>
 
 ### How to Use the Diagnostic Interface
 
